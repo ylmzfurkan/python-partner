@@ -4,7 +4,7 @@ Bu proje, Python programlama dilinde Taş-Kağıt-Makas oyununu basit bir konsol
 
 ## Nasıl Çalışır
 
-1. `taş_kagit_makas.py` dosyasını çalıştırın.
+1. `play.py` dosyasını çalıştırın.
 2. Konsol üzerinde, her hamlede Taş, Kağıt veya Makas'ı temsil eden bir numara seçin.
 3. Oyun, kullanıcının seçimini bilgisayarın rastgele seçimiyle karşılaştırarak bir kazanan belirler.
 4. Sonuç ve güncel skor konsol üzerinde görüntülenir.
@@ -16,7 +16,7 @@ Bu projenin çalışması için Python 3 yüklü olmalıdır. Aşağıdaki adım
 
 1. Bu depoyu klonlayın veya ZIP olarak indirin.
 2. Terminali açın ve proje dizinine gidin.
-3. `taş_kagit_makas.py` dosyasını çalıştırmak için aşağıdaki komutu kullanın:
+3. `play.py` dosyasını çalıştırmak için aşağıdaki komutu kullanın:
 
 python taş_kagit_makas.py
 
