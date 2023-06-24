@@ -1,3 +1,3 @@
 # python-partner
 with @mcsaygili
-06.06.2023
+24.06.2023
